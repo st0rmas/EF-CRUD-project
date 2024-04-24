@@ -22,10 +22,10 @@ public class ClientRepository : IRepository<Client> {
     }
 
     public void Save(Client entity) {
-        throw new NotImplementedException();
+        
     }
 
     public void Delete(int id) {
-        throw new NotImplementedException();
+        
     }
 }
